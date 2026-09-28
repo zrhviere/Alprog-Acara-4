@@ -1,0 +1,109 @@
+<html>
+<head>
+<title>Sistem Informasi Statistik Kabupaten Sleman</title>
+</head>
+
+<body>
+
+<table border="1" width="700" align="center" cellpadding="0" cellspacing="0">
+
+<tr>
+<td align="right" height="30">
+<a href="#">login</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+<table width="100%" cellpadding="5" cellspacing="0">
+<tr>
+
+<td width="130" align="center">
+<img src="lambang_sleman.jpg" width="80" height="90" alt="Lambang Sleman">
+</td>
+
+<td align="center">
+<font size="6"><b>SISTEM INFORMASI STATISTIK</b></font><br>
+<font size="5"><i>KABUPATEN SLEMAN</i></font>
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<table width="100%" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="170" valign="top">
+<b>Penduduk</b><br>
+Geografi dan Iklim<br>
+Pemerintahan<br>
+Sosial<br>
+Pertanian<br>
+Industri<br>
+Pariwisata dan<br>
+Keuangan
+</td>
+
+<td valign="top">
+
+<center><b>Tabel Penduduk</b></center>
+
+<table border="1" width="100%" cellpadding="2" cellspacing="0">
+
+<tr>
+<th>Kecamatan</th>
+<th>Luas<br>Wilayah</th>
+<th>Jumlah<br>Penduduk</th>
+<th>Kepadatan<br>Penduduk</th>
+</tr>
+
+<tr><td>Moyudan</td><td align="right">27,62</td><td align="right">31.497</td><td align="right">1.140,37</td></tr>
+<tr><td>Minggir</td><td align="right">27,27</td><td align="right">29.886</td><td align="right">1.095,93</td></tr>
+<tr><td>Seyegan</td><td align="right">26,63</td><td align="right">47.129</td><td align="right">1.769,77</td></tr>
+<tr><td>Godean</td><td align="right">26,84</td><td align="right">72.028</td><td align="right">2.683,61</td></tr>
+<tr><td>Gamping</td><td align="right">29,25</td><td align="right">108.675</td><td align="right">3.715,38</td></tr>
+<tr><td>Mlati</td><td align="right">28,52</td><td align="right">113.732</td><td align="right">3.987,80</td></tr>
+<tr><td>Depok</td><td align="right">35,55</td><td align="right">189.649</td><td align="right">5.334,71</td></tr>
+<tr><td>Berbah</td><td align="right">22,99</td><td align="right">58.806</td><td align="right">2.557,89</td></tr>
+<tr><td>Prambanan</td><td align="right">41,35</td><td align="right">48.565</td><td align="right">1.174,49</td></tr>
+<tr><td>Kalasan</td><td align="right">35,84</td><td align="right">86.654</td><td align="right">2.417,80</td></tr>
+<tr><td>Ngemplak</td><td align="right">35,71</td><td align="right">65.951</td><td align="right">1.846,85</td></tr>
+<tr><td>Ngaglik</td><td align="right">38,52</td><td align="right">120.368</td><td align="right">3.124,82</td></tr>
+<tr><td>Sleman</td><td align="right">31,32</td><td align="right">67.839</td><td align="right">2.166,00</td></tr>
+<tr><td>Tempel</td><td align="right">32,49</td><td align="right">50.723</td><td align="right">1.561,19</td></tr>
+<tr><td>Turi</td><td align="right">43,09</td><td align="right">34.361</td><td align="right">797,42</td></tr>
+<tr><td>Pakem</td><td align="right">43,84</td><td align="right">38.193</td><td align="right">871,19</td></tr>
+<tr><td>Cangkringan</td><td align="right">47,99</td><td align="right">29.456</td><td align="right">613,79</td></tr>
+
+</table>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="logo_sleman.jpg" width="160" alt="Sleman"><br>
+Pemerintah Kabupaten Sleman<br>
+Jl. Parasamya, Sleman, Daerah Istimewa Yogyakarta Kode Pos 55511 Telp (0274) 868405
+
+</td>
+</tr>
+
+</table>
+
+</body>
+</html>
